@@ -2,12 +2,17 @@
 
 에이메스(Aemeath)를 바탕으로 만든 비공식 Codex 커스텀 펫입니다. Codex Desktop의 pet overlay에서 사용할 수 있는 `pet.json`과 `spritesheet.webp`를 제공합니다.
 
+![Aemeath Codex pet demo](docs/aemeath-pet-demo.gif)
+
+전체 애니메이션 atlas는 아래 contact sheet에서 확인할 수 있습니다.
+
 ![Aemeath Codex pet contact sheet](docs/contact-sheet.png)
 
 ## 구성
 
 - `pet/pet.json`: Codex 커스텀 펫 매니페스트
 - `pet/spritesheet.webp`: 8 x 9 Codex pet spritesheet atlas
+- `docs/aemeath-pet-demo.gif`: Codex에서 실제로 보이는 모습 예시
 - `docs/contact-sheet.png`: 전체 애니메이션 상태 확인용 미리보기
 - `install.sh`: 로컬 Codex 설정에 펫을 설치하는 스크립트
 
