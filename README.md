@@ -13,6 +13,9 @@
   </a>
   <img alt="Codex custom pet" src="https://img.shields.io/badge/Codex-custom%20pet-111827?style=flat-square">
   <img alt="Platform" src="https://img.shields.io/badge/platform-macOS%20%7C%20Linux-blue?style=flat-square">
+  <a href="LICENSE.md">
+    <img alt="License" src="https://img.shields.io/badge/license-personal%20use-lightgrey?style=flat-square">
+  </a>
   <img alt="Fan made" src="https://img.shields.io/badge/fan--made-unofficial-ff69b4?style=flat-square">
 </p>
 
@@ -91,6 +94,10 @@ Codex가 실행 중이었다면 제거 후 앱을 다시 시작하는 편이 가
 ## Made By
 
 만든 사람은 [@hyeonbungi](https://github.com/hyeonbungi)입니다. Codex를 더 자주, 더 즐겁게 쓰고 싶어서 개인용으로 만들었고, 같은 취향의 사람도 바로 써볼 수 있도록 이 저장소에 정리했습니다.
+
+## License
+
+이 저장소는 [personal-use custom license](LICENSE.md)를 따릅니다. 코드와 문서는 개인적 사용과 수정을 허용하고, pet artwork와 sprite asset은 개인 Codex 커스터마이징 용도로만 제공합니다.
 
 ## Source Notice
 
